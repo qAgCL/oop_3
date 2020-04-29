@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <height>12</height>
+  <age>12</age>
+  <surname>12</surname>
+  <gender>Male</gender>
+  <salary>12</salary>
+</employee></service_life>
+    <power>1</power>
+    <torque>1</torque>
+  </anyType>
+</ArrayOfAnyType>/weight>
+      <height>1</height>
+      <color>1</color>
+      <tire_width>1</tire_width>
+      <drive_unit>Real_wheel_drive</drive_unit>
+      <oil_consumption>1</oil_consumption>
+      <fuel_grade>Gas</fuel_grade>
+      <engine>
+        <weight>1</weight>
+        <year_of_creation>12</year_of_creation>
+        <service_life>12</service_life>
+        <power>1</power>
+        <torque>1</torque>
+      </engine>
+    </auto>
+    <employee>
+      <height>1</height>
+      <age>1</age>
+      <surname>1</surname>
+      <gender>Agender</gender>
+      <salary>1</salary>
+    </employee>
+  </anyType>
+  <anyType xsi:type="ice_auto">
+    <weight>1</weight>
+    <height>1</height>
+    <color>1</color>
+    <tire_width>1</tire_width>
+    <drive_unit>Real_wheel_drive</drive_unit>
+    <oil_consumption>1</oil_consumption>
+    <fuel_grade>Gas</fuel_grade>
+    <engine>
+      <weight>1</weight>
+      <year_of_creation>12</year_of_creation>
+      <service_life>12</service_life>
+      <power>1</power>
+      <torque>1</torque>
+    </engine>
+  </anyType>
+  <anyType xsi:type="engine">
+    <weight>1</weight>
+    <year_of_creation>12</year_of_creation>
+    <service_life>12</service_life>
+    <power>1</power>
+    <torque>1</torque>
+  </anyType>
+  <anyType xsi:type="employee">
+    <height>1</height>
+    <age>1</age>
+    <surname>1</surname>
+    <gender>Agender</gender>
+    <salary>1</salary>
+  </anyType>
+</ArrayOfAnyType>r_of_creation>1</year_of_creation>
+    <service_life>1</service_life>
+    <power>1</power>
+    <torque>1</torque>
+  </anyType>
+  <anyType xsi:type="engine">
+    <weight>1</weight>
+    <year_of_creation>1</year_of_creation>
+    <service_life>1</service_life>
+    <power>1</power>
+    <torque>1</torque>
+  </anyType>
+  <anyType xsi:type="electro_auto">
+    <weight>1</weight>
+    <height>1</height>
+    <color>1</color>
+    <tire_width>1</tire_width>
+    <drive_unit>Real_wheel_drive</drive_unit>
+    <charging_time>1</charging_time>
+    <battery_consumption>1</battery_consumption>
+    <quick_charge>Yes</quick_charge>
+    <engine>
+      <weight>1</weight>
+      <year_of_creation>1</year_of_creation>
+      <service_life>1</service_life>
+      <power>1</power>
+      <torque>1</torque>
+    </engine>
+  </anyType>
+  <anyType xsi:type="engine">
+    <weight>1</weight>
+    <year_of_creation>1</year_of_creation>
+    <service_life>1</service_life>
+    <power>1</power>
+    <torque>1</torque>
+  </anyType>
+</ArrayOfAnyType>

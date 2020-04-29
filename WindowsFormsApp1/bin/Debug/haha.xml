@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="auto_transport">
+    <weight>1</weight>
+    <height>1</height>
+    <color>1</color>
+    <tire_width>1</tire_width>
+    <drive_unit>Front_wheel_drive</drive_unit>
+  </anyType>
+</ArrayOfAnyType>

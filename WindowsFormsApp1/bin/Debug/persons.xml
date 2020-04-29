@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="airplane">
+    <weight>12</weight>
+    <height>1212</height>
+    <color>12</color>
+    <wingsspan>12</wingsspan>
+    <auto_pilot>No</auto_pilot>
+    <engine>
+      <weight>12</weight>
+      <year_of_creation>12</year_of_creation>
+      <service_life>12</service_life>
+      <power>12</power>
+      <torque>12</torque>
+    </engine>
+  </anyType>
+  <anyType xsi:type="engine">
+    <weight>12</weight>
+    <year_of_creation>12</year_of_creation>
+    <service_life>12</service_life>
+    <power>12</power>
+    <torque>12</torque>
+  </anyType>
+</ArrayOfAnyType>
